@@ -1,5 +1,5 @@
 <template>
-    <div id="contributors" class="contributors-container flex flex-col items-center hover:border-2 border-red-500">
+    <div id="contributors" class="contributors-container flex flex-col items-center gap-4 hover:border-2 border-red-500">
         <h1>ContributorsContainer.vue</h1>
         <div :key="person.name" v-for="person in people" class="flex">
             <ContributorCard  :person="person"/>

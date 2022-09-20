@@ -1,5 +1,5 @@
 <template>
-    <div class="contributor-card rounded border flex justify-start items-center gap-4 p-2">
+    <div class="contributor-card flex justify-start items-center rounded-md bg-gray-800 gap-4 p-2">
             <img class="rounded-full w-16 h-16" :src="person.image" />
             <p class="text-orange-500">{{person.name}}</p>
             <a :href="person.github" target="_blank">
