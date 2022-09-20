@@ -1,7 +1,6 @@
 <template>
     <div id="features" class="features-container flex flex-col items-center  hover:border-2 border-red-500">
-        <h1>FeaturesContainer.vue</h1>
-        <h3>Core Features</h3>
+        <h3 class="text-3xl text-center font-bold">Core Features</h3>
         <ul class="list-disc">
             <li>Minimal installation and automatic detection of Vue app</li>
             <li>

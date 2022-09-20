@@ -1,6 +1,6 @@
 <template>
     <div id ="install" class="install-container flex flex-col items-center  hover:border-2 border-red-500">
-        <h1>InstallContainer.vue</h1>
+        <h3 class="text-3xl text-center font-bold">Installation</h3>
         <ol>
             <li>Make sure you have the Vue.js DevTools extension installed</li>
             <li>
