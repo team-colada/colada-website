@@ -1,5 +1,5 @@
 <template>
-    <div id="demo-project" class="flex flex-col items-center  hover:border-2 border-red-500">
+    <div id="demo-project" class="flex flex-col items-center pt-24 p-8">
         <h3 class="text-3xl text-center font-bold">Demo Project Setup</h3>
     </div>
 </template>
