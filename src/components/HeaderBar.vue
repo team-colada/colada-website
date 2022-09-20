@@ -2,7 +2,7 @@
     <div class="header-bar fixed w-full flex justify-between items-center bg-gray-800">
         <div class="header-left flex justify-evenly items-center pl-4 gap-4">
             <img src="../assets/png/colada-logo.png" height="64" width="64" class="logo" alt="Github logo" />
-            <h1 class="text-xl text-yellow-500">Colada</h1>
+            <a href="#" class="text-xl text-yellow-500">Colada</a>
             <a href="#features">Features</a>
             <a href="#install">Installation</a>
             <a href="#contributors">Contributors</a>
