@@ -1,7 +1,7 @@
 <template>
     <div id="hero" class="hero-container flex flex-col items-center mt-24 p-8">
         <img class="h-1/5 w-1/5 hover:motion-safe:animate-spin" src="../assets/png/Colada.png" />
-        <h1 class="text-5xl font-bold">Colada</h1>
+        <h1 class="text-5xl font-bold text-orange-400">Colada</h1>
         <h3 class="text-3xl text-center">Time-travel debugging for Pinia, Vue's official state management library</h3>
     </div>
 </template>
@@ -12,9 +12,3 @@
         name:'HeroContainer'
     }
 </script>
-
-<style scoped>
-    .hero-container{
-
-    }
-</style>
