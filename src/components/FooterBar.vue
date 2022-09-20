@@ -1,5 +1,5 @@
 <template>
-    <div class="footer-bar border border-rose-500">
+    <div class="footer-bar hover:border-2 border-red-500">
         <h1>FooterBar.vue</h1>
     </div>
 </template>
