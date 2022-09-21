@@ -1,7 +1,7 @@
 <template>
     <section id="how-to-use" class="flex flex-col items-center border-b-2 border-slate-800 p-8">
         <h3 class="text-3xl text-center font-bold">How To Use</h3>
-        <div class="flex flex-col justify-around max-w-4xl w-5/6 items-start border-2 rounded-lg border-slate-800 bg-slate-800 p-8">
+        <div class="flex flex-col justify-around lg:max-w-4xl lg:w-5/6 items-start border-2 rounded-lg border-slate-800 bg-slate-800 p-8">
             <div class="flex flex-col p-4">
                 <h4 class="text-xl font-bold">Using the Colada Vue DevTools <a class="text-orange-400 transition active:text-orange-200 hover:text-orange-300" href="https://www.npmjs.com/package/colada-plugin" target="_blank">Plugin</a></h4>
                 <ul class="list-disc pl-8">
@@ -25,7 +25,7 @@
             </div>
         </div>
         <br/>
-        <div class="flex flex-col justify-around max-w-4xl w-5/6 items-start border-2 rounded-lg border-slate-800 bg-slate-800 p-8">
+        <div class="flex flex-col justify-around lg:max-w-4xl lg:w-5/6 items-start border-2 rounded-lg border-slate-800 bg-slate-800 p-8">
             <div class="flex flex-col p-4">
                 <h4 class="text-xl font-bold">Using the Colada DevTools <a class="text-blue-500 transition active:text-blue-300 hover:text-blue-400" href="" target="_blank" >Extension</a></h4>
                 <ul class="list-disc pl-8">

@@ -1,5 +1,5 @@
 <template>
-    <section id="contributors" class="contributors-container overflow-hidden flex flex-col items-center gap-4 pt-24 p-8">
+    <section id="contributors" class="contributors-container overflow-hidden flex flex-col items-center gap-4 pt-16 p-8">
         <h3 class="text-3xl text-center font-bold">Contributors</h3>
         <div class="sm:columns-1 md:columns-2 xl:columns-4 p-8">
             <div :key="person.name" v-for="person in people" class="flex list-none">

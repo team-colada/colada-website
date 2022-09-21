@@ -1,5 +1,5 @@
 <template>
-    <section id ="install" class="install-container flex flex-col items-center border-b-2 border-slate-800 pt-24 p-8">
+    <section id ="install" class="install-container flex flex-col items-center border-b-2 border-slate-800 pt-16 p-8">
         <h3 class="text-3xl text-center font-bold pb-8">Installation</h3>
         <ol class="list-decimal">
             <li class="p-1">Make sure you have the <a class="rounded text-sky-500 transition hover:text-sky-400 active:bg-sky-700 visited:text-purple-600 p-1" href="https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en" target="_blank">Vue.js DevTools extension</a> installed.</li>
@@ -29,8 +29,9 @@
                     <br/>
                     <p>app.<span class="text-purple-400">mount</span>(<span class="text-sky-300">'#app'</span>);</p>
                 </div>
-                <br/>
             </li>
+            <li class="p-1">Download and install the Colada Chrome Extension</li>
+            <li class="p-1">Make sure to enable the extension</li>
         </ol>
     </section>
 </template>
