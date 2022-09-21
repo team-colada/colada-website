@@ -58,7 +58,7 @@
                     name: 'Dan Steinbrook',
                     title: 'Software Engineer',
                     github:"https://github.com/dsteinbrook",
-                    linkedin: "https://linkedin.com"
+                    linkedin: "https://www.linkedin.com/in/daniel-steinbrook/"
                 }
              ]
         }

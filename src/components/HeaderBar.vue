@@ -26,7 +26,7 @@
                 </svg>
             </div>
         </div>
-        <div id="hamburger-menu" class="hidden flex flex-col justify-around items-start gap-2 p-2 transition bg-slate-800 border border-slate-400 rounded absolute right-4 top-12">
+        <div id="hamburger-menu" class="lg:hidden hidden flex flex-col justify-around items-start gap-2 p-2 transition bg-slate-800 border border-slate-400 rounded absolute right-3 top-14">
             <a href="#features" class="text-md w-full text-slate-300 hover:cursor-pointer hover:text-slate-50">Features</a>
             <a href="#install" class="text-md w-full text-slate-300 hover:cursor-pointer hover:text-slate-50">Installation</a>
             <a href="#contributors" class="text-md w-full text-slate-300 hover:cursor-pointer border-b border-slate-400 hover:text-slate-50">Contributors</a>
