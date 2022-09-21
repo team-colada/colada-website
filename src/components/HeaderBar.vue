@@ -15,12 +15,12 @@
                 <span class="rounded-lg text-slate-200 border-2 border-blue-700 bg-blue-700 transition hover:bg-slate-800 hover:text-blue-500 p-1 ">Chrome Extension</span>
             </a>
         </div>
-        <div id="hamburger-icon" class="flex justify-between items-center w-full md:hidden">
+        <div class="flex justify-between items-center w-full md:hidden">
             <div class="flex justify-center items-center pl-4">
                 <img src="../assets/png/colada-logo.png" height="64" width="64" class="logo" alt="Colada logo" />
                 <a href="#" class="text-xl font-bold text-orange-400 hover:text-orange-300">Colada</a>
             </div>
-            <div class="p-1 mr-3 border border-slate-800 rounded transition hover:border-slate-400 hover:cursor-pointer active:border-slate-200">
+            <div id="hamburger-icon" class="p-1 mr-3 border border-slate-800 rounded transition hover:border-slate-400 hover:cursor-pointer active:border-slate-200">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
                     <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
                 </svg>

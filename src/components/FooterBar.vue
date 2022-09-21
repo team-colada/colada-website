@@ -1,6 +1,6 @@
 <template>
-    <footer class="footer-bar flex justify-between items-center bg-slate-800">
-        <div class="footer-left flex justify-center items-center gap-3 pl-4">
+    <footer class="footer-bar flex md:justify-between justify-center items-center bg-slate-800 md:p-0 pt-4 pb-4">
+        <div class="footer-left md:flex md:justify-center md:items-center md:w-auto hidden gap-3 pl-4">
             <a href="#" class="animate-bounce text-xl text-emerald-500 p-4 hover:text-emerald-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-chevron-double-up" viewBox="0 0 16 16">
                     <path fill-rule="evenodd" d="M7.646 2.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 3.707 2.354 9.354a.5.5 0 1 1-.708-.708l6-6z"/>
