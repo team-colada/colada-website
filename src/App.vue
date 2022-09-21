@@ -11,7 +11,7 @@ import FooterBar from './components/FooterBar.vue'
 </script>
 
 <template>
-  <div class="main flex flex-col h-full justify-between bg-gray-900">
+  <div class="main flex flex-col h-full justify-between bg-slate-900">
     <HeaderBar />
     <HeroContainer />
     <FeaturesContainer />

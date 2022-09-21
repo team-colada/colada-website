@@ -9,10 +9,10 @@
         </div>
         <div class="header-right flex justify-end items-center pr-8 gap-4">
             <a href="https://www.npmjs.com/package/colada-plugin" target="_blank">
-                <span class="rounded-lg border-2 transition hover:border-emerald-600 p-1 ">npm</span>
+                <span class="rounded-lg border-2 border-slate-800 transition hover:border-orange-500 hover:text-orange-500 p-1 ">npm</span>
             </a>
             <a href="https://google.com/" target="_blank">
-                <span class="rounded-lg border-2 border-emerald-600 bg-emerald-600 transition hover:bg-slate-800 p-1 ">Chrome Extension</span>
+                <span class="rounded-lg text-slate-900 border-2 border-emerald-500 bg-emerald-500 transition hover:bg-slate-800 hover:text-emerald-500 p-1 ">Chrome Extension</span>
             </a>
         </div>
     </div>
