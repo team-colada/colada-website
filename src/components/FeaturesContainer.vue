@@ -22,7 +22,7 @@
                 <div class="relative mx-auto max-w-prose text-base lg:max-w-none">
                 <figure>
                     <div class="aspect-w-12 aspect-h-7 lg:aspect-none">
-                    <img class="rounded-lg object-cover object-center shadow-lg" src="../assets/png/Colada.png" alt="Screenshot of app GIF" width="1184" height="1376">
+                    <img class="rounded-lg object-cover object-center shadow-lg" src="../assets/png/Extension-time-travel_cropped.png" alt="Screenshot of app GIF" width="1184" height="1376">
                     </div>
                     <figcaption class="mt-3 flex text-sm text-slate-400">
                     <!-- Bootstrap icon of 'image' -->
