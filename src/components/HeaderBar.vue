@@ -1,5 +1,5 @@
 <template>
-    <div class="header-bar fixed w-full flex justify-between items-center bg-slate-800 z-10">
+    <nav class="header-bar fixed w-full flex justify-between items-center bg-slate-800 z-10">
         <div class="header-left flex justify-evenly items-center pl-8 gap-4">
             <img src="../assets/png/colada-logo.png" height="64" width="64" class="logo" alt="Colada logo" />
             <a href="#" class="text-xl font-bold text-orange-400 hover:text-orange-300">Colada</a>
@@ -15,7 +15,18 @@
                 <span class="rounded-lg text-slate-200 border-2 border-blue-700 bg-blue-700 transition hover:bg-slate-800 hover:text-blue-500 p-1 ">Chrome Extension</span>
             </a>
         </div>
-    </div>
+        <!-- <div class="flex justify-between items-center md:hidden">
+            <div class="flex justify-center items-center">
+                <img src="../assets/png/colada-logo.png" height="64" width="64" class="logo" alt="Colada logo" />
+                <a href="#" class="text-xl font-bold text-orange-400 hover:text-orange-300">Colada</a>
+            </div>
+            <div class="space-y-2">
+                <span class="block w-8 h-0.5 bg-gray-600 animate-pulse"></span>
+                <span class="block w-8 h-0.5 bg-gray-600 animate-pulse"></span>
+                <span class="block w-8 h-0.5 bg-gray-600 animate-pulse"></span>
+            </div>
+        </div> -->
+    </nav>
 </template>
 
 <script>

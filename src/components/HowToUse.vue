@@ -1,5 +1,5 @@
 <template>
-    <div id="how-to-use" class="flex flex-col items-center border-b-2 border-slate-800 p-8">
+    <section id="how-to-use" class="flex flex-col items-center border-b-2 border-slate-800 p-8">
         <h3 class="text-3xl text-center font-bold">How To Use</h3>
         <div class="flex flex-col justify-around max-w-4xl w-5/6 items-start border-2 rounded-lg border-slate-800 bg-slate-800 p-8">
             <div class="flex flex-col p-4">
@@ -57,7 +57,7 @@
                 </ul>
             </div>
         </div>
-    </div>
+    </section>
 </template>
 
 <script>

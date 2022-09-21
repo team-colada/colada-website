@@ -1,5 +1,5 @@
 <template>
-    <div id="demo-project" class="flex flex-col items-center border-b-2 border-slate-800 p-8">
+    <section id="demo-project" class="flex flex-col items-center border-b-2 border-slate-800 p-8">
         <h3 class="text-3xl text-center font-bold">Demo Project Setup</h3>
         <div class="flex flex-col justify-around items-start p-8">
             <div class="flex flex-col p-4">
@@ -22,7 +22,7 @@
                 </ol>
             </div>
         </div>
-    </div>
+    </section>
 </template>
 
 <script>

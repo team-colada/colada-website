@@ -1,5 +1,5 @@
 <template>
-    <div class="footer-bar flex justify-between items-center bg-slate-800">
+    <footer class="footer-bar flex justify-between items-center bg-slate-800">
         <div class="footer-left flex justify-center items-center gap-4 pl-8">
             <a href="#" class="animate-bounce text-xl text-emerald-500 p-4 hover:text-emerald-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-chevron-double-up" viewBox="0 0 16 16">
@@ -19,7 +19,7 @@
                 </svg>
             </a>
         </div>
-    </div>
+    </footer>
 </template>
 
 <script>

@@ -1,5 +1,5 @@
 <template>
-    <div id ="install" class="install-container flex flex-col items-center border-b-2 border-slate-800 pt-24 p-8">
+    <section id ="install" class="install-container flex flex-col items-center border-b-2 border-slate-800 pt-24 p-8">
         <h3 class="text-3xl text-center font-bold pb-8">Installation</h3>
         <ol class="list-decimal">
             <li class="p-1">Make sure you have the <a class="rounded text-sky-500 transition hover:text-sky-400 active:bg-sky-700 visited:text-purple-600 p-1" href="https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en" target="_blank">Vue.js DevTools extension</a> installed.</li>
@@ -30,22 +30,9 @@
                     <p>app.<span class="text-purple-400">mount</span>(<span class="text-sky-300">'#app'</span>);</p>
                 </div>
                 <br/>
-                <div class="font-mono rounded-lg bg-slate-800 pl-4 p-2">
-                    <p class="font-mono text-slate-500">// App.vue</p>
-                    <br/>
-                    <p class="font-mono text-slate-500">// your Pinia stores</p>
-                    <p class="font-mono text-slate-500">// MAKE SURE THAT THIS MATCHES THE 'id' of your stores</p>
-                    <p class="font-mono text-slate-500">// import Colada Plugin</p>
-                    <p>const store = useStore();</p>
-                    <p>const counter = useCounterStore();</p>
-                    <br/>
-                    <p class="font-mono text-slate-500">// **REQUIRED for Colada plugin use</p>
-                    <p>window.store = {store, counter}</p>
-                </div>
             </li>
         </ol>
-        
-    </div>
+    </section>
 </template>
 
 <script>

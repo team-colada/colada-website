@@ -1,5 +1,5 @@
 <template>
-    <div id="features" class="features-container flex flex-col items-center mt-24 p-8  bg-slate-800">
+    <section id="features" class="features-container flex flex-col items-center mt-24 p-8  bg-slate-800">
       <div class="overflow-hidden">
         <div class="relative mx-auto max-w-7xl py-16 px-4 sm:px-6 lg:px-8">
           <div class="absolute top-0 bottom-0 left-3/4 hidden w-screen bg-slate-600 lg:block"></div>
@@ -67,7 +67,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </section>
 </template>
 
 <script>

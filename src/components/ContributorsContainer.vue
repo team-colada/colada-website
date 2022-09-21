@@ -1,5 +1,5 @@
 <template>
-    <div id="contributors" class="contributors-container overflow-hidden flex flex-col items-center gap-4 pt-24 p-8">
+    <section id="contributors" class="contributors-container overflow-hidden flex flex-col items-center gap-4 pt-24 p-8">
         <h3 class="text-3xl text-center font-bold">Contributors</h3>
         <div class="sm:columns-1 md:columns-2 xl:columns-4 p-8">
             <div :key="person.name" v-for="person in people" class="flex list-none">
@@ -9,7 +9,7 @@
         <div>
             <p class="text-center p-8">Interested in contributing to Colada? Reach out to our core team for <a class="rounded text-sky-500 transition hover:text-sky-400 active:bg-sky-700 visited:text-purple-600 p-1" href="https://github.com/oslabs-beta/colada/issues" target="_blank">feature requests or issues/bugs</a> to report? Read our documentation on feature requests and issues/bugs.</p>
         </div>
-    </div>
+    </section>
 </template>
 
 <script>
