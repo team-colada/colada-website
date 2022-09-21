@@ -12,7 +12,7 @@
                 <span class="rounded-lg border-2 border-slate-800 transition hover:border-orange-500 hover:text-orange-500 p-1 ">npm</span>
             </a>
             <a href="https://google.com/" target="_blank">
-                <span class="rounded-lg text-slate-900 border-2 border-emerald-500 bg-emerald-500 transition hover:bg-slate-800 hover:text-emerald-500 p-1 ">Chrome Extension</span>
+                <span class="rounded-lg text-slate-200 border-2 border-blue-700 bg-blue-700 transition hover:bg-slate-800 hover:text-blue-500 p-1 ">Chrome Extension</span>
             </a>
         </div>
     </div>

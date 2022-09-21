@@ -2,15 +2,15 @@
     <div id ="install" class="install-container flex flex-col items-center border-b-2 border-slate-800 pt-24 p-8">
         <h3 class="text-3xl text-center font-bold pb-8">Installation</h3>
         <ol class="list-decimal">
-            <li class="p-1">Make sure you have the <a class="rounded text-sky-500 transition hover:text-sky-400 active:bg-sky-700 visited:text-purple-600 p-1" href="https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en" target="_blank">Vue.js DevTools extension</a> installed</li>
+            <li class="p-1">Make sure you have the <a class="rounded text-sky-500 transition hover:text-sky-400 active:bg-sky-700 visited:text-purple-600 p-1" href="https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en" target="_blank">Vue.js DevTools extension</a> installed.</li>
             <li class="p-1">
-                Install the <a class="rounded text-sky-500 transition hover:text-sky-400 active:bg-sky-700 visited:text-purple-600 p-1" href="https://www.npmjs.com/package/colada-plugin" target="_blank">Colada npm package</a> in your app's root directory
+                Install the <a class="rounded text-sky-500 transition hover:text-sky-400 active:bg-sky-700 visited:text-purple-600 p-1" href="https://www.npmjs.com/package/colada-plugin" target="_blank">Colada npm package</a> in your app's root directory.
                 <div class="font-mono rounded-lg bg-slate-800 pl-4 mt-2 p-2">
                     <p class="font-mono">npm install colada-plugin --save-dev</p>
                 </div>
             </li>
             <li class="p-1">
-                Add Colada to your Vue app
+                Add Colada to your Vue app.
                 <div class="font-mono rounded-lg bg-slate-800 pl-4 mt-2 p-2">
                     <p class="font-mono text-slate-500">//main.js</p>
                     <br/>
