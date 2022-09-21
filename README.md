@@ -1,7 +1,26 @@
-# Vue 3 + Vite
+# Setting up
+Clone the Main branch of this repo
+```
+npm install
+```
+To enter development mode:
+```
+npm run dev
+```
+To build for production:
+```
+npm run build
+```
+Note: if you want to preview your built project:
+```
+npm run preview
+```
+# Deployment to gh-pages
+While in the Main branch
+```
+git add . 
+git commit -m "<commit message>"
+git push
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+sh deploy.sh
+```
