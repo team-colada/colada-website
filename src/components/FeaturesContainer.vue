@@ -65,9 +65,3 @@
         name:'FeaturesContainer'
     }
 </script>
-
-<style scoped>
-    .features-container{
-
-    }
-</style>
