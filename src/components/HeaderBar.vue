@@ -11,7 +11,7 @@
             <a href="https://www.npmjs.com/package/colada-plugin" target="_blank">
                 <span class="rounded border border-slate-800 transition hover:border-orange-500 hover:text-orange-500 p-1 ">npm</span>
             </a>
-            <a href="https://google.com/" target="_blank">
+            <a href="https://chrome.google.com/webstore/category/extensions" target="_blank">
                 <span class="rounded text-slate-200 border border-blue-700 bg-blue-700 transition hover:bg-slate-800 hover:text-blue-500 p-1 ">Chrome Extension</span>
             </a>
         </div>
@@ -33,7 +33,7 @@
             <a href="https://www.npmjs.com/package/colada-plugin" target="_blank">
                 <span class="text-md transition hover:cursor-pointer hover:text-orange-500">npm</span>
             </a>
-            <a href="https://google.com/" target="_blank">
+            <a href="https://chrome.google.com/webstore/category/extensions" target="_blank">
                 <span class="text-md text-blue-500 font-semibold transition hover:cursor-pointer hover:text-blue-400">Chrome Extension</span>
             </a>
         </div>

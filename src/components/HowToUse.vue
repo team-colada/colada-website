@@ -27,7 +27,7 @@
         <br/>
         <div class="flex flex-col justify-around lg:max-w-4xl lg:w-5/6 items-start border-2 rounded-lg border-slate-800 bg-slate-800 p-8">
             <div class="flex flex-col p-4">
-                <h4 class="text-xl font-bold">Using the Colada DevTools <a class="text-blue-500 transition active:text-blue-300 hover:text-blue-400" href="" target="_blank" >Extension</a></h4>
+                <h4 class="text-xl font-bold">Using the Colada DevTools <a class="text-blue-500 transition active:text-blue-300 hover:text-blue-400" href="https://chrome.google.com/webstore/category/extensions" target="_blank" >Extension</a></h4>
                 <ul class="list-disc pl-8">
                     <li>Navigate to the Colada Devtools</li>
                 </ul>

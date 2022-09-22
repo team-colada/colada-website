@@ -30,7 +30,7 @@
                     <p>app.<span class="text-purple-400">mount</span>(<span class="text-sky-300">'#app'</span>);</p>
                 </div>
             </li>
-            <li class="p-1">Download and install the <a class="rounded text-sky-500 transition hover:text-sky-400 active:bg-sky-700 visited:text-purple-600 p-1" href="https://www.google.com" target="_blank">Colada Chrome Extension</a></li>
+            <li class="p-1">Download and install the <a class="rounded text-sky-500 transition hover:text-sky-400 active:bg-sky-700 visited:text-purple-600 p-1" href="https://chrome.google.com/webstore/category/extensions" target="_blank">Colada Chrome Extension</a></li>
             <li class="p-1">Make sure to enable the extension</li>
         </ol>
     </section>

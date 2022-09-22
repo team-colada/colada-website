@@ -53,7 +53,7 @@
                     </div>
                   </li>
                   <li>
-                    <p class="text-lg">A <a class="rounded bg-slate-700 text-blue-500 transition hover:bg-slate-600 active:bg-slate-500 pl-1 pr-1" href="https://google.com" target="_blank">Chrome DevTool Extension</a> providing enhanced features, including:</p>
+                    <p class="text-lg">A <a class="rounded bg-slate-700 text-blue-500 transition hover:bg-slate-600 active:bg-slate-500 pl-1 pr-1" href="https://chrome.google.com/webstore/category/extensions" target="_blank">Chrome DevTool Extension</a> providing enhanced features, including:</p>
                     <div class="pl-8">
                         <ul role="list" class="list-disc">
                             <li>Time travel debugging</li>
