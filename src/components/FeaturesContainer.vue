@@ -5,7 +5,7 @@
           <div class="absolute top-0 bottom-0 left-3/4 hidden w-screen bg-slate-600 lg:block"></div>
           <div class="mx-auto max-w-prose text-base lg:grid lg:max-w-none lg:grid-cols-2 lg:gap-8">
             <div>
-              <h2 class="text-lg font-semibold text-indigo-600">DevTool</h2>
+              <h2 class="text-lg font-semibold text-indigo-600">DevTools</h2>
               <h3 class="mt-2 text-3xl font-bold leading-8 tracking-tight text-slate-200 sm:text-4xl">Features</h3>
           </div>
         </div>
@@ -42,7 +42,7 @@
               <div class="prose prose-indigo mx-auto mt-5 text-slate-300 lg:col-start-1 lg:row-start-1 lg:max-w-none">
                 <h4 class="text-xl font-bold border-b border-slate-500">Core Features</h4>
                 <ol role="list" class="list-decimal pt-4">
-                  <li><p class="text-lg">Minimal installation and automatic detection of Vue app.</p></li>
+                  <li><p class="text-lg">Minimal installation and automatic detection of Vue app in Vue.js DevTools.</p></li>
                   <li>
                     <p class="text-lg">Direct integration into <a class="rounded bg-slate-700 text-emerald-500 transition hover:bg-slate-600 active:bg-slate-500 pl-1 pr-1" href="https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en" target="_blank">Vue.js DevTools</a>, so developers can use Colada without needing to leave their existing devtool configuration.</p>
                     <div class="pl-8">

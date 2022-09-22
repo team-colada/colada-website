@@ -5,8 +5,10 @@ import FeaturesContainer from './components/FeaturesContainer.vue'
 import InstallContainer from './components/InstallContainer.vue'
 import HowToUse from './components/HowToUse.vue'
 import DemoProject from './components/DemoProject.vue'
+import ScreenshotsContainer from './components/ScreenshotsContainer.vue'
 import ContributorsContainer from './components/ContributorsContainer.vue'
 import FooterBar from './components/FooterBar.vue'
+
 
 </script>
 
@@ -18,6 +20,7 @@ import FooterBar from './components/FooterBar.vue'
     <InstallContainer />
     <HowToUse />
     <DemoProject />
+    <ScreenshotsContainer />
     <ContributorsContainer />
     <FooterBar />
   </div>

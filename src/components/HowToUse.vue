@@ -3,9 +3,9 @@
         <h3 class="text-3xl text-center font-bold">How To Use</h3>
         <div class="flex flex-col justify-around lg:max-w-4xl lg:w-5/6 items-start border-2 rounded-lg border-slate-800 bg-slate-800 p-8">
             <div class="flex flex-col p-4">
-                <h4 class="text-xl font-bold">Using the Colada Vue DevTools <a class="text-orange-400 transition active:text-orange-200 hover:text-orange-300" href="https://www.npmjs.com/package/colada-plugin" target="_blank">Plugin</a></h4>
+                <h4 class="text-xl font-bold">Using the Colada Vue.js DevTools <a class="text-orange-400 transition active:text-orange-200 hover:text-orange-300" href="https://www.npmjs.com/package/colada-plugin" target="_blank">Plugin</a></h4>
                 <ul class="list-disc pl-8">
-                    <li>Navigate to the Vue Devtools.</li>
+                    <li>Navigate to the Vue.js Devtools.</li>
                 </ul>
             </div>
             <div class="flex flex-col p-4">
