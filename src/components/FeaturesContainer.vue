@@ -22,7 +22,7 @@
                 <div class="relative mx-auto max-w-prose text-base lg:max-w-none">
                 <figure>
                     <div class="aspect-w-12 aspect-h-7 lg:aspect-none">
-                    <img class="rounded-lg object-cover object-center shadow-lg" src="../assets/png/Extension-time-travel_cropped.png" alt="Screenshot of app GIF" width="1184" height="1376">
+                    <img class="rounded-lg object-cover object-center shadow-lg" src="../assets/gif/colada.gif" alt="gif of colada extension" width="1184" height="1376">
                     </div>
                     <figcaption class="mt-3 flex text-sm text-slate-400">
                     <!-- Bootstrap icon of 'image' -->
@@ -53,7 +53,7 @@
                     </div>
                   </li>
                   <li>
-                    <p class="text-lg">A <a class="rounded bg-slate-700 text-blue-500 transition hover:bg-slate-600 active:bg-slate-500 pl-1 pr-1" href="https://chrome.google.com/webstore/category/extensions" target="_blank">Chrome DevTool Extension</a> providing enhanced features, including:</p>
+                    <p class="text-lg">A <a class="rounded bg-slate-700 text-blue-500 transition hover:bg-slate-600 active:bg-slate-500 pl-1 pr-1" href="https://chrome.google.com/webstore/detail/colada-devtools/icdbaobbeemmhlmjolbkedcneadkfpdl" target="_blank">Chrome DevTool Extension</a> providing enhanced features, including:</p>
                     <div class="pl-8">
                         <ul role="list" class="list-disc">
                             <li>Time travel debugging</li>
