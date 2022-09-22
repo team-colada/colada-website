@@ -33,6 +33,9 @@
             <a href="#features" class="text-md w-full text-slate-300 hover:cursor-pointer hover:text-slate-50">Features</a>
             <a href="#install" class="text-md w-full text-slate-300 hover:cursor-pointer hover:text-slate-50">Installation</a>
             <a href="#contributors" class="text-md w-full text-slate-300 hover:cursor-pointer border-b border-slate-400 hover:text-slate-50">Contributors</a>
+            <a href="https://github.com/oslabs-beta/colada" target="_blank">
+                <span class="text-md transition hover:cursor-pointer hover:text-slate-50">Github</span>
+            </a>
             <a href="https://www.npmjs.com/package/colada-plugin" target="_blank">
                 <span class="text-md transition hover:cursor-pointer hover:text-orange-500">npm</span>
             </a>
