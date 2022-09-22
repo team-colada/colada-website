@@ -23,37 +23,49 @@
                 data-bs-slide-to="2"
                 aria-label="Slide 3"
                 ></button>
+                <button
+                type="button"
+                data-bs-target="#carouselExampleCaptions"
+                data-bs-slide-to="3"
+                aria-label="Slide 4"
+                ></button>
             </div>
             <div class="carousel-inner relative w-full overflow-hidden">
                 <div class="carousel-item active relative float-left w-full">
-                <div class="relative overflow-hidden bg-no-repeat bg-cover" style="background-position: 50%;">
-                    <img src="../assets/png/Extension-time-travel.png" class="block w-full" />
-                    <!-- <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed bg-black opacity-50"></div> -->
-                </div>
-                <div class="carousel-caption hidden md:block absolute text-center">
-                    <h5 class="text-xl">Chrome Extension</h5>
-                    <p>Colada Timeline - Enables time-travel debugging</p>
-                </div>
-                </div>
-                <div class="carousel-item relative float-left w-full">
-                <div class="relative overflow-hidden bg-no-repeat bg-cover" style="background-position: 50%;">
-                    <img src="../assets/png/Plugin-timeline.png" class="block w-full" />
-                    <!-- <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed bg-black opacity-50"></div> -->
-                </div>
-                <div class="carousel-caption hidden md:block absolute text-center">
-                    <h5 class="text-xl">Vue.js Plugin</h5>
-                    <p>Colada Plugin Timeline</p>
-                </div>
+                    <div class="relative overflow-hidden bg-no-repeat bg-cover" style="background-position: 50%;">
+                        <img src="../assets/png/Extension-time-travel.png" class="block w-full" />
+                    </div>
+                    <div class="carousel-caption hidden md:block absolute text-center">
+                        <h5 class="text-xl">Chrome Extension</h5>
+                        <p>Colada Timeline - Enables time-travel debugging</p>
+                    </div>
                 </div>
                 <div class="carousel-item relative float-left w-full">
-                <div class="relative overflow-hidden bg-no-repeat bg-cover" style="background-position: 50%;">
-                    <img src="../assets/png/Plugin-screenshots-off-toggle.png" class="block w-full" />
-                    <!-- <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed bg-black opacity-50"></div> -->
+                    <div class="relative overflow-hidden bg-no-repeat bg-cover" style="background-position: 50%;">
+                        <img src="../assets/png/Plugin-timeline.png" class="block w-full" />
+                    </div>
+                    <div class="carousel-caption hidden md:block absolute text-center">
+                        <h5 class="text-xl">Vue.js Plugin</h5>
+                        <p>Colada Plugin Timeline</p>
+                    </div>
                 </div>
-                <div class="carousel-caption hidden md:block absolute text-center">
-                    <h5 class="text-xl">Vue.js Plugin</h5>
-                    <p>Colada Plugin - Turn off screenshots</p>
+                <div class="carousel-item relative float-left w-full">
+                    <div class="relative overflow-hidden bg-no-repeat bg-cover" style="background-position: 50%;">
+                        <img src="../assets/png/Plugin-screenshots-off-toggle.png" class="block w-full" />
+                    </div>
+                    <div class="carousel-caption hidden md:block absolute text-center">
+                        <h5 class="text-xl">Vue.js Plugin</h5>
+                        <p>Colada Plugin - Turn off screenshots</p>
+                    </div>
                 </div>
+                <div class="carousel-item relative float-left w-full">
+                    <div class="relative overflow-hidden bg-no-repeat bg-cover" style="background-position: 50%;">
+                        <img src="../assets/png/Plugin-timeline-with-devtool-selection.png" class="block w-full" />
+                    </div>
+                    <div class="carousel-caption hidden md:block absolute text-center">
+                        <h5 class="text-xl">Vue.js Plugin</h5>
+                        <p>Colada Plugin - Navigate to Extension</p>
+                    </div>
                 </div>
             </div>
             <button
